@@ -184,4 +184,8 @@
     <string name="reset_settings_title">Feature preferences</string>
     <string name="reset_settings_summary">Reset Project 404 feature preferences</string>
     <string name="keywords_settings_reset">reset</string>
+
+    <!-- Nightlight UDFPS -->
+    <string name="fod_night_light_title">Disable Night Light when showing UDFPS</string>
+    <string name="fod_night_light_summary">Disable Night Light on lock screen if UDFPS is active. Disabling this option might affect your fingerprint accuracy with Night Light on.</string>
 </resources>
