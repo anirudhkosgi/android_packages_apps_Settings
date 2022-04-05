@@ -188,4 +188,11 @@
     <!-- Nightlight UDFPS -->
     <string name="fod_night_light_title">Disable Night Light when showing UDFPS</string>
     <string name="fod_night_light_summary">Disable Night Light on lock screen if UDFPS is active. Disabling this option might affect your fingerprint accuracy with Night Light on.</string>
+
+    <!-- Misc Category Title -->
+    <string name="misc_category_title">Customizations</string>
+    
+    <!-- Hidden apps -->
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hidden_apps_summary">Applications that should be hidden from launcher. Requires a launcher restart for changes to take effect</string>
 </resources>
